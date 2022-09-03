@@ -29,7 +29,7 @@ Balanced Accuracy Score: 67.2%
 ![adaboost](https://user-images.githubusercontent.com/98570777/188262946-2d9da15c-1b3c-409e-8415-25abc874e297.jpg)
 Balanced Accuracy Score: 92.5%
 
-## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+## Summary: 
 
 In high stakes data like credit risk, a high recall and precision scores are important. A high recall allows us to measure the ability for the model to find positive samples. A high precision tells how reliable the model is at classifing positive samples.
 
